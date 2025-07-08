@@ -40,6 +40,6 @@ VR沉浸体验：支持主流VR播放器，真实感拉满
 本页面仅作信息汇总与索引展示，影片资源均来自第三方资源站，我们不提供视频存储与播放服务。请合理使用互联网资源，尊重相关法规与版权信息。
 
 
-<span style="display:none;">[Canonical link] ( ）</span>
+<span style="display:none;">[Canonical link] (https://github.com/tnnn2611/200000 ）</span>
 
 
